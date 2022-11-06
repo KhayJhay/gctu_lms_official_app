@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592271808004",
+    "project_id": "gctu-official-app",
+    "storage_bucket": "gctu-official-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592271808004:android:08db21dd5b3a580b01c751",
+        "android_client_info": {
+          "package_name": "com.example.gctu_official_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592271808004-8gk2b5cnidbvfriughajc20ts2qi6t2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdpjmIXnH-iiT7ArnjPhd1rC4Y-_x92k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592271808004-8gk2b5cnidbvfriughajc20ts2qi6t2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
